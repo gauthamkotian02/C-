@@ -1,0 +1,13 @@
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.AssemblyInfoInputs.cache
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.AssemblyInfo.cs
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.csproj.CoreCompileInputs.cache
+C:\.net\arrayallocation9\bin\Debug\netcoreapp3.1\arrayallocation9.exe
+C:\.net\arrayallocation9\bin\Debug\netcoreapp3.1\arrayallocation9.deps.json
+C:\.net\arrayallocation9\bin\Debug\netcoreapp3.1\arrayallocation9.runtimeconfig.json
+C:\.net\arrayallocation9\bin\Debug\netcoreapp3.1\arrayallocation9.runtimeconfig.dev.json
+C:\.net\arrayallocation9\bin\Debug\netcoreapp3.1\arrayallocation9.dll
+C:\.net\arrayallocation9\bin\Debug\netcoreapp3.1\arrayallocation9.pdb
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.dll
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.pdb
+C:\.net\arrayallocation9\obj\Debug\netcoreapp3.1\arrayallocation9.genruntimeconfig.cache
