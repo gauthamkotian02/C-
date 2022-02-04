@@ -1,0 +1,14 @@
+C:\.net\frequency8\bin\Debug\netcoreapp3.1\frequency8.exe
+C:\.net\frequency8\bin\Debug\netcoreapp3.1\frequency8.deps.json
+C:\.net\frequency8\bin\Debug\netcoreapp3.1\frequency8.runtimeconfig.json
+C:\.net\frequency8\bin\Debug\netcoreapp3.1\frequency8.runtimeconfig.dev.json
+C:\.net\frequency8\bin\Debug\netcoreapp3.1\frequency8.dll
+C:\.net\frequency8\bin\Debug\netcoreapp3.1\frequency8.pdb
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.csproj.AssemblyReference.cache
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.AssemblyInfoInputs.cache
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.AssemblyInfo.cs
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.csproj.CoreCompileInputs.cache
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.dll
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.pdb
+C:\.net\frequency8\obj\Debug\netcoreapp3.1\frequency8.genruntimeconfig.cache
