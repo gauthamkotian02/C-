@@ -1,0 +1,14 @@
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.csproj.AssemblyReference.cache
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.AssemblyInfoInputs.cache
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.AssemblyInfo.cs
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.csproj.CoreCompileInputs.cache
+C:\.net\volume5\bin\Debug\netcoreapp3.1\volume5.exe
+C:\.net\volume5\bin\Debug\netcoreapp3.1\volume5.deps.json
+C:\.net\volume5\bin\Debug\netcoreapp3.1\volume5.runtimeconfig.json
+C:\.net\volume5\bin\Debug\netcoreapp3.1\volume5.runtimeconfig.dev.json
+C:\.net\volume5\bin\Debug\netcoreapp3.1\volume5.dll
+C:\.net\volume5\bin\Debug\netcoreapp3.1\volume5.pdb
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.dll
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.pdb
+C:\.net\volume5\obj\Debug\netcoreapp3.1\volume5.genruntimeconfig.cache
