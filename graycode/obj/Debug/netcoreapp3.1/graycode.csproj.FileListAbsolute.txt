@@ -1,0 +1,13 @@
+C:\.net\graycode\bin\Debug\netcoreapp3.1\graycode.exe
+C:\.net\graycode\bin\Debug\netcoreapp3.1\graycode.deps.json
+C:\.net\graycode\bin\Debug\netcoreapp3.1\graycode.runtimeconfig.json
+C:\.net\graycode\bin\Debug\netcoreapp3.1\graycode.runtimeconfig.dev.json
+C:\.net\graycode\bin\Debug\netcoreapp3.1\graycode.dll
+C:\.net\graycode\bin\Debug\netcoreapp3.1\graycode.pdb
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.AssemblyInfoInputs.cache
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.AssemblyInfo.cs
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.csproj.CoreCompileInputs.cache
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.dll
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.pdb
+C:\.net\graycode\obj\Debug\netcoreapp3.1\graycode.genruntimeconfig.cache
