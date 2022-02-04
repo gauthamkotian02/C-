@@ -1,0 +1,13 @@
+C:\.net\matrix10\bin\Debug\netcoreapp3.1\matrix10.exe
+C:\.net\matrix10\bin\Debug\netcoreapp3.1\matrix10.deps.json
+C:\.net\matrix10\bin\Debug\netcoreapp3.1\matrix10.runtimeconfig.json
+C:\.net\matrix10\bin\Debug\netcoreapp3.1\matrix10.runtimeconfig.dev.json
+C:\.net\matrix10\bin\Debug\netcoreapp3.1\matrix10.dll
+C:\.net\matrix10\bin\Debug\netcoreapp3.1\matrix10.pdb
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.AssemblyInfoInputs.cache
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.AssemblyInfo.cs
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.csproj.CoreCompileInputs.cache
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.dll
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.pdb
+C:\.net\matrix10\obj\Debug\netcoreapp3.1\matrix10.genruntimeconfig.cache
