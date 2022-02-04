@@ -1,0 +1,14 @@
+C:\.net\static7\bin\Debug\netcoreapp3.1\static7.exe
+C:\.net\static7\bin\Debug\netcoreapp3.1\static7.deps.json
+C:\.net\static7\bin\Debug\netcoreapp3.1\static7.runtimeconfig.json
+C:\.net\static7\bin\Debug\netcoreapp3.1\static7.runtimeconfig.dev.json
+C:\.net\static7\bin\Debug\netcoreapp3.1\static7.dll
+C:\.net\static7\bin\Debug\netcoreapp3.1\static7.pdb
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.csproj.AssemblyReference.cache
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.AssemblyInfoInputs.cache
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.AssemblyInfo.cs
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.csproj.CoreCompileInputs.cache
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.dll
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.pdb
+C:\.net\static7\obj\Debug\netcoreapp3.1\static7.genruntimeconfig.cache
