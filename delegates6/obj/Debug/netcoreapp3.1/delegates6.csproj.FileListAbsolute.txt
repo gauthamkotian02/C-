@@ -1,0 +1,13 @@
+C:\.net\delegates6\bin\Debug\netcoreapp3.1\delegates6.exe
+C:\.net\delegates6\bin\Debug\netcoreapp3.1\delegates6.deps.json
+C:\.net\delegates6\bin\Debug\netcoreapp3.1\delegates6.runtimeconfig.json
+C:\.net\delegates6\bin\Debug\netcoreapp3.1\delegates6.runtimeconfig.dev.json
+C:\.net\delegates6\bin\Debug\netcoreapp3.1\delegates6.dll
+C:\.net\delegates6\bin\Debug\netcoreapp3.1\delegates6.pdb
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.AssemblyInfoInputs.cache
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.AssemblyInfo.cs
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.csproj.CoreCompileInputs.cache
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.dll
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.pdb
+C:\.net\delegates6\obj\Debug\netcoreapp3.1\delegates6.genruntimeconfig.cache
