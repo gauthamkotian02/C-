@@ -1,0 +1,14 @@
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.csproj.AssemblyReference.cache
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.AssemblyInfoInputs.cache
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.AssemblyInfo.cs
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.csproj.CoreCompileInputs.cache
+C:\.net\prg14\bin\Debug\netcoreapp3.1\prg14.exe
+C:\.net\prg14\bin\Debug\netcoreapp3.1\prg14.deps.json
+C:\.net\prg14\bin\Debug\netcoreapp3.1\prg14.runtimeconfig.json
+C:\.net\prg14\bin\Debug\netcoreapp3.1\prg14.runtimeconfig.dev.json
+C:\.net\prg14\bin\Debug\netcoreapp3.1\prg14.dll
+C:\.net\prg14\bin\Debug\netcoreapp3.1\prg14.pdb
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.dll
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.pdb
+C:\.net\prg14\obj\Debug\netcoreapp3.1\prg14.genruntimeconfig.cache
