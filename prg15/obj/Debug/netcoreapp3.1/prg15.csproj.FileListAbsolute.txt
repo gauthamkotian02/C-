@@ -1,0 +1,13 @@
+C:\.net\prg15\bin\Debug\netcoreapp3.1\prg15.exe
+C:\.net\prg15\bin\Debug\netcoreapp3.1\prg15.deps.json
+C:\.net\prg15\bin\Debug\netcoreapp3.1\prg15.runtimeconfig.json
+C:\.net\prg15\bin\Debug\netcoreapp3.1\prg15.runtimeconfig.dev.json
+C:\.net\prg15\bin\Debug\netcoreapp3.1\prg15.dll
+C:\.net\prg15\bin\Debug\netcoreapp3.1\prg15.pdb
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.GeneratedMSBuildEditorConfig.editorconfig
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.AssemblyInfoInputs.cache
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.AssemblyInfo.cs
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.csproj.CoreCompileInputs.cache
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.dll
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.pdb
+C:\.net\prg15\obj\Debug\netcoreapp3.1\prg15.genruntimeconfig.cache
