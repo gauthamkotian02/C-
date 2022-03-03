@@ -1,0 +1,13 @@
+C:\Users\mca\source\repos\egprg2\bin\Debug\netcoreapp3.1\egprg2.exe
+C:\Users\mca\source\repos\egprg2\bin\Debug\netcoreapp3.1\egprg2.deps.json
+C:\Users\mca\source\repos\egprg2\bin\Debug\netcoreapp3.1\egprg2.runtimeconfig.json
+C:\Users\mca\source\repos\egprg2\bin\Debug\netcoreapp3.1\egprg2.runtimeconfig.dev.json
+C:\Users\mca\source\repos\egprg2\bin\Debug\netcoreapp3.1\egprg2.dll
+C:\Users\mca\source\repos\egprg2\bin\Debug\netcoreapp3.1\egprg2.pdb
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.AssemblyInfo.cs
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.dll
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.pdb
+C:\Users\mca\source\repos\egprg2\obj\Debug\netcoreapp3.1\egprg2.genruntimeconfig.cache
