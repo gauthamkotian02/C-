@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1L6d+/mUTO3M4p3IxMoQ5zWnBQs7da3OZtcH8JAU0YIpg097wHQdI1V/JptaYz9ARbHREUQsd00rHb4fel2N8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mca\\source\\repos\\egprg1\\egprg1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
