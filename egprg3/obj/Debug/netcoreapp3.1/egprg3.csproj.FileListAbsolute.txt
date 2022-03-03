@@ -1,0 +1,14 @@
+C:\Users\mca\source\repos\egprg3\bin\Debug\netcoreapp3.1\egprg3.exe
+C:\Users\mca\source\repos\egprg3\bin\Debug\netcoreapp3.1\egprg3.deps.json
+C:\Users\mca\source\repos\egprg3\bin\Debug\netcoreapp3.1\egprg3.runtimeconfig.json
+C:\Users\mca\source\repos\egprg3\bin\Debug\netcoreapp3.1\egprg3.runtimeconfig.dev.json
+C:\Users\mca\source\repos\egprg3\bin\Debug\netcoreapp3.1\egprg3.dll
+C:\Users\mca\source\repos\egprg3\bin\Debug\netcoreapp3.1\egprg3.pdb
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.csproj.AssemblyReference.cache
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.AssemblyInfo.cs
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.dll
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.pdb
+C:\Users\mca\source\repos\egprg3\obj\Debug\netcoreapp3.1\egprg3.genruntimeconfig.cache
