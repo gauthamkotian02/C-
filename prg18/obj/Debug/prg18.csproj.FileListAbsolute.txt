@@ -1,0 +1,5 @@
+C:\.net\prg18\obj\Debug\prg18.csproj.AssemblyReference.cache
+C:\.net\prg18\obj\Debug\prg18.Form1.resources
+C:\.net\prg18\obj\Debug\prg18.Properties.Resources.resources
+C:\.net\prg18\obj\Debug\prg18.csproj.GenerateResource.cache
+C:\.net\prg18\obj\Debug\prg18.csproj.CoreCompileInputs.cache
