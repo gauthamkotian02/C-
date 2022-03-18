@@ -1,0 +1,9 @@
+C:\.net\rg19\obj\Debug\rg19.Form1.resources
+C:\.net\rg19\obj\Debug\rg19.Properties.Resources.resources
+C:\.net\rg19\obj\Debug\rg19.csproj.GenerateResource.cache
+C:\.net\rg19\obj\Debug\rg19.csproj.CoreCompileInputs.cache
+C:\.net\rg19\bin\Debug\rg19.exe.config
+C:\.net\rg19\bin\Debug\rg19.exe
+C:\.net\rg19\bin\Debug\rg19.pdb
+C:\.net\rg19\obj\Debug\rg19.exe
+C:\.net\rg19\obj\Debug\rg19.pdb
