@@ -1,0 +1,10 @@
+C:\.net\Window\obj\Debug\Window.csproj.AssemblyReference.cache
+C:\.net\Window\obj\Debug\Window.Form1.resources
+C:\.net\Window\obj\Debug\Window.Properties.Resources.resources
+C:\.net\Window\obj\Debug\Window.csproj.GenerateResource.cache
+C:\.net\Window\obj\Debug\Window.csproj.CoreCompileInputs.cache
+C:\.net\Window\bin\Debug\Window.exe.config
+C:\.net\Window\bin\Debug\Window.exe
+C:\.net\Window\bin\Debug\Window.pdb
+C:\.net\Window\obj\Debug\Window.exe
+C:\.net\Window\obj\Debug\Window.pdb
